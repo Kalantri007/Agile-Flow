@@ -1,28 +1,58 @@
-# Agile-Flow-2-5
-### Team Leader: Pranjal Pimple
-### Team Members: 
-### 1. Prathemesh Kalantri 
-### 2. Prasad Shinde
-### 3. Gitesh Pawar
-### 4. Vyankatesh Kalantri
+# Project Title
 
-# Project Documents
+**Brief description of your project.**
 
-This repository contains the project proposal and design documents for the project.
+## Features
 
-## Project Proposal
+- **Feature 1:** Description
+- **Feature 2:** Description
 
-- [Complete Project Proposal](https://docs.google.com/document/d/1Swa7kZGK9ulw_U5rvcR2Vi8A_wAhHmlRGqULhUcWrg4/edit?usp=sharing) (GP 2)
+## Installation
 
-## External Project Design
+1. Clone the repository:
 
-1. [Step 1: Choose a UI Prototyping Tool](https://docs.google.com/document/d/1sbtgeHO1Qp-vuT2x6l6yMPO8Uv3OLuTmsLwc93AOGck/edit?usp=sharing) (GP 3)
-2. [Step 2: Interactive UI Prototype](https://docs.google.com/document/d/1MYpiOOoyijMMJB5jrOtYecsUlba5C-x4JKqO-0f1IdI/edit?usp=sharing) (GP 4)
+    ```bash
+    git clone https://github.com/your-username/your-repo.git
+    ```
 
-## Internal Design
+2. Navigate to the project directory:
 
-- [Internal Design](https://docs.google.com/document/d/1YM1cjXjcl3D3TMoyNQTDCJ7HQz5VIynJUZxpSqcHmno/edit?usp=sharing) (GP 6)
+    ```bash
+    cd your-repo
+    ```
 
-## Unit Testing and Code Coverage
+3. Install dependencies:
 
-- [Choose a Unit Testing and a Code Coverage Tool](https://docs.google.com/document/d/1yEkcfDldDzZL0QHcgDj9Zk3okTM9jPvPoVS3_T2UaHk/edit?usp=sharing) (GP 7)
+    ```bash
+    npm install
+    ```
+
+4. Start the application:
+
+    ```bash
+    npm start
+    ```
+
+## Usage
+
+Provide a brief example of how to use the project:
+
+```bash
+npm start
+```
+
+## Screenshots
+
+Below are some screenshots of the project:
+
+1. **Login:**
+   ![CSCI630-GP-4-1-Google-Docs](https://github.com/user-attachments/assets/38da18b6-d6d9-4230-ad06-c07e3fcca3c4)
+
+
+2. **Feature Page:**
+   ![Feature Page](path/to/feature-page-screenshot.png)
+
+3. **Login Screen:**
+   ![Login Screen](path/to/login-screen-screenshot.png)
+
+
